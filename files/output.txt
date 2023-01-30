@@ -1,0 +1,57 @@
+--------------------- /content/drive/MyDrive/vehicle/Vehicle_test_dataset/test1.jpg --------------------------
+predicted object car: 96.52%
+--------------------- /content/drive/MyDrive/vehicle/Vehicle_test_dataset/test10.jpg --------------------------
+predicted object car: 89.00%
+predicted object car: 65.11%
+predicted object car: 63.80%
+--------------------- /content/drive/MyDrive/vehicle/Vehicle_test_dataset/test2.jpg --------------------------
+predicted object motorcycle: 67.31%
+predicted object bus: 61.95%
+predicted object auto: 61.04%
+--------------------- /content/drive/MyDrive/vehicle/Vehicle_test_dataset/test3.jpg --------------------------
+predicted object car: 96.31%
+predicted object car: 96.28%
+predicted object car: 94.88%
+predicted object car: 89.38%
+predicted object car: 84.36%
+predicted object motorcycle: 79.73%
+predicted object motorcycle: 78.47%
+predicted object car: 69.30%
+--------------------- /content/drive/MyDrive/vehicle/Vehicle_test_dataset/test4.jpg --------------------------
+predicted object car: 94.02%
+predicted object car: 88.05%
+predicted object motorcycle: 74.60%
+--------------------- /content/drive/MyDrive/vehicle/Vehicle_test_dataset/test5.jpg --------------------------
+predicted object multiaxle: 82.74%
+--------------------- /content/drive/MyDrive/vehicle/Vehicle_test_dataset/test6.jpg --------------------------
+predicted object car: 97.35%
+predicted object car: 92.45%
+predicted object motorcycle: 90.19%
+predicted object car: 88.28%
+--------------------- /content/drive/MyDrive/vehicle/Vehicle_test_dataset/test7.jpg --------------------------
+predicted object car: 98.60%
+predicted object car: 91.24%
+predicted object car: 91.16%
+--------------------- /content/drive/MyDrive/vehicle/Vehicle_test_dataset/test8.jpg --------------------------
+predicted object car: 92.95%
+predicted object car: 92.62%
+predicted object car: 89.93%
+predicted object car: 78.27%
+predicted object motorcycle: 78.14%
+predicted object truck: 61.68%
+--------------------- /content/drive/MyDrive/vehicle/Vehicle_test_dataset/test9.jpg --------------------------
+predicted object car: 98.25%
+predicted object car: 98.14%
+predicted object car: 97.02%
+predicted object car: 96.99%
+predicted object car: 96.95%
+predicted object car: 96.04%
+predicted object car: 95.98%
+predicted object car: 95.93%
+predicted object car: 95.58%
+predicted object car: 91.43%
+predicted object car: 86.94%
+predicted object car: 82.63%
+predicted object car: 82.35%
+predicted object car: 80.10%
+predicted object car: 78.95%
